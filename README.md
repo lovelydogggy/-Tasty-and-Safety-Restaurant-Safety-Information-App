@@ -16,8 +16,6 @@ The **learning goals** for this project is:
 - systems development/design life cycle
 - shiny app/shiny server
 
-*The above general statement about project 2 can be removed once you are finished with your project. It is optional.
-
 ## Tasty and Safety
 Term: Fall 2019
 
